@@ -8,6 +8,9 @@ Just for the sake of it, I went for react and totally overengineered the thing..
 Things to note : I went for simple hooks to manage card state. It's a bit ugly but bringing in a store manager would have been way too much for a simple UI that's not destined to be put to prod or anything.
 Also : I'm sure there's tons of hardcoded values & unoptimized stuff left, but since the goal was to go as fast as possible well... Here goes :P
 
+
+<strong>/!\ Not responsive !</strong>
+
 Check out Benjamin's video [on YouTube](https://www.youtube.com/watch?v=JTG6VoLJuAc).
 
 ## Install, run & build
